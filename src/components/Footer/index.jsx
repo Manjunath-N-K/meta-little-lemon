@@ -38,7 +38,7 @@ const Footer = () => {
         </SocialMedia>
         <div style={{ margin: '1rem 0' }}>
           <SocialIconLink href='/' target='_blank'>
-            <p style={{ color: '#fff' }}>By Adetunlese Arowolo</p>
+            <p style={{ color: '#fff' }}>By Manjunath N K</p>
           </SocialIconLink>
         </div>
       </FooterWrap>
